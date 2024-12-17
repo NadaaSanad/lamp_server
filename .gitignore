@@ -1,0 +1,27 @@
+# Ignore sensitive files
+config.php
+.env
+*.key
+*.pem
+
+# Ignore temporary files
+*.log
+*.bak
+
+# Ignore IDE/editor files
+.vscode/
+.idea/
+
+# Ignore OS-specific files
+.DS_Store
+Thumbs.db
+
+# Ignore Composer vendor directory (for Composer-managed PHP projects)
+/vendor/
+
+# Ignore PHPUnit test coverage files
+/coverage/
+
+# Ignore Node.js dependencies if present
+/node_modules/
+
