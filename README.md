@@ -30,8 +30,6 @@ This project outlines the steps taken to set up a PHP-based website with Apache 
 
 To set up this project locally, clone this repository and follow the instructions in the `README.md` file.
  ####################################
-# My LAMP Web Server Project
-
 ## 1. IP Address: What It Is and Its Purpose in Networking
 
 An **IP address** (Internet Protocol address) is a unique identifier assigned to every device connected to a network. It serves as an address for communication between devices on the network, enabling the devices to find and communicate with each other over the internet or local network.
